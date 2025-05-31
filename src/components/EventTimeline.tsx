@@ -23,8 +23,8 @@ const EventTimeline: React.FC = () => {
   const events: Event[] = [
     {
       name: "Mehendi Ceremony",
-      date: "1st June 2025",
-      time: "6:00 PM",
+      date: "2nd June 2025",
+      time: "11:00 AM",
       venue: "Sonawane Heights",
       address: "Kathe Lane, Bankar Chowk, Dwarka, Nashik, Maharashtra 422011",
       mapLink: "https://www.google.com/maps/place/Sonawane+Heights/@19.989041,73.8029186,779m/data=!3m2!1e3!4b1!4m6!3m5!1s0x3bddeba3a8df3da9:0x8ad4a129e4071d0f!8m2!3d19.989041!4d73.8029186!16s%2Fg%2F11tsj2gkb9?entry=ttu&g_ep=EgoyMDI1MDUxNS4xIKXMDSoASAFQAw%3D%3D",
